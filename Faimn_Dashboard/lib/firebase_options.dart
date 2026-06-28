@@ -13,24 +13,24 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey:            "AIzaSyAhESyck8FiL3pN63AaNEOe_zO00NQXij0",
-    appId:             "1:97421584129:web:dfbe7d26867071dbb8dd00",
-    messagingSenderId: "1087218451143",
-    projectId:         "faimn3-c39c8",
-    databaseURL:       "https://faimn3-c39c8-default-rtdb.firebaseio.com/",
+    apiKey:            "API_KEY",
+    appId:             "YOUR_API_ID",
+    messagingSenderId: "SENDER_ID",
+    projectId:         "FIREBASE_PROJECT_ID",
+    databaseURL:       "FIREBASE_URL",
   );
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey:            "AIzaSyAhESyck8FiL3pN63AaNEOe_zO00NQXij0",
-    appId:             "1:97421584129:android:dfbe7d26867071dbb8dd00",
-    messagingSenderId: "1087218451143",
-    projectId:         "faimn3-c39c8",
-    databaseURL:       "https://faimn3-c39c8-default-rtdb.firebaseio.com/",
+    apiKey:            "API_KEY",
+    appId:             "YOUR_API_ID",
+    messagingSenderId: "SENDER_ID",
+    projectId:         "FIREBASE_PROJECT_ID",
+    databaseURL:       "FIREBASE_URL",
   );
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey:            "AIzaSyAhESyck8FiL3pN63AaNEOe_zO00NQXij0",
-    appId:             "1:97421584129:ios:dfbe7d26867071dbb8dd00",
-    messagingSenderId: "1087218451143",
-    projectId:         "faimn3-c39c8",
-    databaseURL:       "https://faimn3-c39c8-default-rtdb.firebaseio.com/",
+     apiKey:            "API_KEY",
+    appId:             "YOUR_API_ID",
+    messagingSenderId: "SENDER_ID",
+    projectId:         "FIREBASE_PROJECT_ID",
+    databaseURL:       "FIREBASE_URL",
   );
 }
